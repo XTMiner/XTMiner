@@ -1,5 +1,5 @@
 ﻿# XTMiner1.86
-
+下载地址：https://github.com/XTminer/XTminer/releases/download/v1.9.8/XTMiner-1.98.rar
 > 一句话：这是一款 Windows 平台的显卡挖矿客户端，单文件 exe、绿色免安装，双击就能用。不用装运行库，也不用改配置文件。界面管理多卡、多套矿池钱包、每卡独立超频，还有网吧模式。
 
 ## ✨ 更新内容
