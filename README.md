@@ -1,5 +1,5 @@
-﻿# XTMiner1.98-做功能强大的挖矿软件
-下载地址：https://github.com/XTminer/XTminer/releases/download/v1.9.8/XTMiner-1.98.rar
+﻿# 火星矿工XTMinerv2.0.7-做功能强大的挖矿软件
+下载地址：https://github.com/XTMiner/XTMiner/releases/download/v2.0.7/XTMiner-2.07.rar
 > 一句话：这是一款 Windows 平台的显卡挖矿客户端，单文件 exe、绿色免安装，双击就能用。不用装运行库，也不用改配置文件。界面管理多卡、多套矿池钱包、每卡独立超频，还有网吧模式。
 
 ## ✨ 更新内容
@@ -8,13 +8,13 @@
 - [x] 修复：已知崩溃问题
 
 ## 📦 包说明
-- XTMiner1.86｜绿色免安装
+- XTMinerv2.0.7｜绿色免安装
 - 系统：Windows 10 / 11（64 位）
 
 
 ## 📖 使用方法
 1. 下载压缩包解压
-2. 双击 `XTMiner1.98.exe` 直接运行
+2. 双击 `XTMinerv2.0.7.exe` 直接运行
 3. 按内置提示操作
 
 
