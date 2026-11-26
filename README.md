@@ -4,7 +4,7 @@ https://github.com/XTMiner/XTMiner/releases/download/v2.0.7/XTMiner-2.07.rar
 
 下载地址（文件大小：117M，纯净版Windows下载地址，带启动配置文件）：
 https://github.com/XTMiner/XTMiner/releases/download/v2.0.7/XTMiner-2.08.rar
-> 一句话：这是一款 Windows 平台的显卡挖矿客户端，单文件 exe、绿色免安装，双击就能用。不用装运行库，也不用改配置文件。界面管理多卡、多套矿池钱包、每卡独立超频，还有网吧模式。
+> 一句话：这是一款 Windows 平台的显卡挖矿客户端，单文件 exe、绿色免安装，双击就能用。不用装运行库，也不用改配置文件。界面管理多卡、多套矿池钱包、单卡独立超频，还有网吧模式。
 
 ## ✨ 更新内容
 - [x] 新增：网吧模式
