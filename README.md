@@ -1,5 +1,5 @@
 ﻿# 火星矿工XTMiner-v2.0.7-做功能强大的挖矿软件
-下载地址（文件大小：55M，非纯净版Windows下载地址）：
+下载地址（文件大小：55M，非纯净版Windows下载地址）：                                                                                               
 https://github.com/XTMiner/XTMiner/releases/download/v2.0.7/XTMiner-2.07.rar
 
 下载地址（文件大小：117M，纯净版Windows下载地址，带启动配置文件）：
